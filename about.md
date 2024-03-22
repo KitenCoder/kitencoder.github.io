@@ -10,6 +10,6 @@ Some information about you!
 
 Проверочка работы
 
-### Contact me
+### Свяжитесь со мной
 
 [email@domain.com](mailto:email@domain.com)
