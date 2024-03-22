@@ -6,7 +6,7 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Больше информации
 
 Проверочка работы
 
